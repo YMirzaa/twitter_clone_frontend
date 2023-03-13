@@ -9,7 +9,7 @@ import {Avatar} from '@mui/material';
 
 import './styles.css';
 
-const tempImg = require('../../assets/images/underwater.jpeg');
+const tempImg = require('../../assets/images/underwater.png');
 const tempAvatarSrc =  require('../../assets/images/underwater-modified.png');
 
 interface PostProps {
